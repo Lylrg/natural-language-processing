@@ -22,7 +22,7 @@ We made our own choices and text treatments, trying different features and embed
    - Random Forest
    - Naive Bayes classifier
 6. **Model Evaluation**: Selected the SVM model
-7. **Prediction**: Used the best model to make predictions on the test set.
+7. **Prediction**: Used the best model to make predictions on the REAL_DATA.txt.
 
 
 ## Insights on this Project
