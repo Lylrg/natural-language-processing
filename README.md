@@ -8,9 +8,9 @@
 
 
 ## Project Description
-Welcome to our NLP Translation Detection Project! In this thrilling (and sometimes baffling) adventure, we embarked on the quest to differentiate between spanish sentences translated by machines and those translated by professional translators. Think of it as our way of saying, "We know your secret, Google Translate!"
+Welcome to our NLP Translation Detection Project! In this thrilling (and sometimes confusing) adventure, we embarked on the quest to differentiate between spanish sentences translated by machines and those translated by professional translators. Think of it as our way of saying, "We know your secret, Google Translate!"
 
-We made our own choices and text treatments, trying different features and embeddings to crack the code. Spoiler alert: The Hugging Face transformer BERT model in Spanish was our knight in shining armor.
+We made our own choices and text treatments, trying different features and embeddings to crack the code. Spoiler alert: The Hugging Face transformer BERT model in Spanish was our hero.
 
 ## Methodology
 1. **Data Preprocessing**: Cleaned the text data by removing unnecessary characters, and performed tokenization.
